@@ -1,0 +1,1 @@
+python "C:\DRIVE\SOFTWARE\ComfyUI\main.py"
