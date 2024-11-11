@@ -1,1 +1,3 @@
+set HTTP_PROXY=127.0.0.1:7897
+set HTTPS_PROXY=127.0.0.1:7897
 python "C:\DRIVE\SOFTWARE\ComfyUI\main.py"
